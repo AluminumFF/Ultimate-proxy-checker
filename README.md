@@ -7,7 +7,7 @@
 # Ultimate-proxy-checker
 
 Check that proxies are working, verify their anonymity level (transparent, anonymous, or elite), lookup their geographic location by IP address, check for other capabilities such as tunneling and available protocols (HTTP/S, SOCKS4/5).
-
+* [Special-Thanks](#special-thanks)
 * [Installation](#installation)
 * [API](#api)
 	* [testAll](#testall)
