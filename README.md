@@ -18,6 +18,7 @@ Check that proxies are working, verify their anonymity level (transparent, anony
 * [Contributing](#contributing)
 	* [Configure Local Environment](#configure-local-environment)
 	* [Tests](#tests)
+* [Donate](#donate) 
 
 
 ## Installation
@@ -360,7 +361,7 @@ if proxy is not valid
   "status": False
 }
 ```
-# Поддержка
+# Donate
 
 QIWI: https://qiwi.com/n/ALEON
 
